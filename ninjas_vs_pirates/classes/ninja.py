@@ -30,3 +30,4 @@ class Ninja:
         self.health += 20
         self.speed += 5
         print(f'{self.name} Leveled Up!')
+        # Update
